@@ -1,2 +1,33 @@
 mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
 -----------------
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+D	aaa3a32de89f41358b3ebce92820402f	88a4215b68aa4e2f8c15ce16d9d6dac8	2026-03-19 17:22:57	2026-03-19 17:22:57	2026-03-19 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	0e7eee2f2cb94476b5e645e69410a70b	ba9c38db124a4efc8a69e5f4bcd6fd04	2026-03-19 17:26:23	2026-03-19 17:26:23	2026-03-19 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+D	3bf0182bfc8e4829b153041eb05c3720	6ca6cced2cf14ba7ab85bd04bd66bde9	2026-03-19 17:26:37	2026-03-19 17:26:37	2026-03-19 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+D	ba7eb82eb87546429750be4cd10f01fc	6f0d3c3b5a5f4176910b6919b382a152	2026-03-19 17:27:32	2026-03-19 17:27:32	2026-03-19 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	fb798344bfc0486d94db6bb5815971da	f293722fb035451a9aefb4e46e754117	2026-03-19 17:27:54	2026-03-19 17:27:54	2026-03-19 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+===== END
